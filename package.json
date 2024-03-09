@@ -1,0 +1,27 @@
+
+{
+"name": "orbit-fdg",
+"version": "1.0.0",
+"description": "a versatile platform designed to streamline task management and enhance collaboration for individuals and teams.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/shaniyaaq214346/orbit.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "shaniyaaq214346",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
